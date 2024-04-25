@@ -13,7 +13,7 @@ import { useSectionInView } from "@/lib/hooks";
 export default function Experience() {
   const [hasAnimated, setHasAnimated] = useState(false);
 
-  const { ref, inView } = useSectionInView("Experience", 0.4);
+  const { ref, inView } = useSectionInView("Experience", 0.3);
 
   useEffect(() => {
     if (inView && !hasAnimated) {
@@ -22,7 +22,7 @@ export default function Experience() {
   }, [inView]);
 
   return (
-    <section ref={ref} id="experience">
+    <section ref={ref} id="experience" className="scroll-mt-28 mb-28 sm:mb-40">
       <SectionHeading>My experience</SectionHeading>
       <VerticalTimeline lineColor="">
         {experiencesData.map((item, index) => (
