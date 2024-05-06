@@ -9,6 +9,8 @@ import linkcityImg from "@/public/linkcity.png";
 import ecohappyImg from "@/public/ecohappy.png";
 import startlivingImg from "@/public/startliving.png";
 import strathornfarmImg from "@/public/strathornfarm.png";
+import best4yourhomeImg from "@/public/best4yourhome.png";
+import holistichealthhqImg from "@/public/holistichealth.png";
 
 export const links = [
   {
@@ -63,11 +65,11 @@ export const experiencesData = [
     date: "2023 - present",
   },
   {
-    title: "Web Designer",
+    title: "Web Developer",
     location: "Remote",
     description:
-      "I had the opportunity to work as a web designer for a PPC Agency. I was responsible for designing and developing websites and funnels for my boss. This experience gave me a solid foundation in web design and development.",
-    icon: React.createElement(FaFigma),
+      "I had the opportunity to work as a web designer and developer for a PPC Agency. I was responsible for designing and developing websites and funnels for my boss. This experience gave me a solid foundation in web design and development.",
+    icon: React.createElement(FaWordpressSimple),
     date: "2023 - present",
   },
 ] as const;
@@ -128,6 +130,22 @@ export const projectsData = [
     tags: ["HTML", "CSS", "PHP", "Javascript", "Wordpress", "Figma"],
     imageUrl: startlivingImg,
     url: "https://startlivingafrica.co",
+  },
+  {
+    title: "Best4YourHome",
+    description:
+      "This was actually a project that I did for a client because they wanted to test my skills before hiring me. It's a blog about home improvement. This was a full redesign of everything including graphics, logo, etc. I was responsible for the creation of the design and development of the website.",
+    tags: ["HTML", "CSS", "PHP", "Javascript", "Wordpress", "Figma"],
+    imageUrl: best4yourhomeImg,
+    url: "https://best4yourhome.com",
+  },
+  {
+    title: "Holistic Health Headquarters",
+    description:
+      "This is a blog about holistic health. They post content about holistic health and how to take care of your body. I was responsible for the creation of web design, graphics, logo, and development of the website.",
+    tags: ["HTML", "CSS", "PHP", "Javascript", "Wordpress", "Figma"],
+    imageUrl: holistichealthhqImg,
+    url: "https://holistichealthhq.com",
   },
 ] as const;
 
