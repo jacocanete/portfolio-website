@@ -30,8 +30,8 @@ export default function About() {
         <span className="font-medium">
           React, Express, Node.js, and MongoDB
         </span>
-        but the crazy part was the job I ended up with was{" "}
-        <span className="font-medium">Wordpress</span>. I am also familiar with
+        <span> but the crazy part was the job I ended up with was</span>
+        <span className="font-medium"> Wordpress</span>. I am also familiar with
         TypeScript and I am always looking to learn new technologies. I am
         currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a web
