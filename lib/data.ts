@@ -62,7 +62,7 @@ export const experiencesData = [
     description:
       "I was never to become a full-time web developer, but I was offered a position as a front-end developer. I worked on a variety of projects, gaining experience with HTML, CSS, Javascript, and PHP. I also learned how to work with APIs and integrate them into web applications. This experience solidified my decision to pursue web development as a career.",
     icon: React.createElement(FaWordpressSimple),
-    date: "2023 - present",
+    date: "2023 - 2024",
   },
   {
     title: "Web Developer",
@@ -70,7 +70,7 @@ export const experiencesData = [
     description:
       "I had the opportunity to work as a web designer and developer for a PPC Agency. I was responsible for designing and developing websites and funnels for my boss. This experience gave me a solid foundation in web design and development.",
     icon: React.createElement(FaWordpressSimple),
-    date: "2023 - present",
+    date: "2023 - 2024",
   },
 ] as const;
 
