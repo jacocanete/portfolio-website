@@ -119,7 +119,7 @@ export const projectsData = [
       "Strathorn Farm Stables is an animal blog about horses based in UK. They post content about horses and how to take care of them. I was responsible for the implementation of design and development of the website.",
     tags: ["HTML", "CSS", "PHP", "Javascript", "Wordpress", "Figma"],
     imageUrl: strathornfarmImg,
-    url: "https://ecohappy.co.uk",
+    url: "https://strathornfarm.co.uk",
   },
   {
     title: "Start Living",
@@ -127,7 +127,7 @@ export const projectsData = [
       "Start Living is a travel blog based in Africa. They help people find the best places to visit in Africa. I was responsible for the implementation of design and development of the website.",
     tags: ["HTML", "CSS", "PHP", "Javascript", "Wordpress", "Figma"],
     imageUrl: startlivingImg,
-    url: "https://ecohappy.co.uk",
+    url: "https://startlivingafrica.co",
   },
 ] as const;
 
