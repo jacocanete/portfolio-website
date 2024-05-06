@@ -19,20 +19,22 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
+        While studying for my degree in{" "}
+        <span className="font-medium">Computer Science</span>, I decided to
+        pursue my passion for programming. I bought a course on Udemy and
+        learned <span className="font-medium">web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        feeling of finally figuring out a solution to a problem. The first web
+        development stack I tried was{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          React, Express, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
+        but the crazy part was the job I ended up with was{" "}
+        <span className="font-medium">Wordpress</span>. I am also familiar with
+        TypeScript and I am always looking to learn new technologies. I am
+        currently looking for a{" "}
+        <span className="font-medium">full-time position</span> as a web
         developer.
       </p>
 
@@ -41,8 +43,12 @@ export default function About() {
         video games, watching movies, and playing with my dog. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="font-medium">
+          philosophy and general parenting stuff because I'm soon to be a father
+          of a beautiful girl
+        </span>
+        . I'm also a singer for a band called{" "}
+        <span className="font-medium">GirlKissers</span>.
       </p>
     </motion.section>
   );
