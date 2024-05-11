@@ -60,7 +60,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Remote",
     description:
-      "I was never to become a full-time web developer, but I was offered a position as a front-end developer. I worked on a variety of projects, gaining experience with HTML, CSS, Javascript, and PHP. I also learned how to work with APIs and integrate them into web applications. This experience solidified my decision to pursue web development as a career.",
+      "I was never to become a full-time web developer, but I was offered a position as a front-end developer. I worked on a variety of projects, gaining experience with HTML, CSS, Javascript, and PHP. I also learned how to work with APIs and integrate them into web applications. This experience solidified my decision to pursue web development as a career. I took Figma designs and turned them into fully functional websites.",
     icon: React.createElement(FaWordpressSimple),
     date: "2023 - 2024",
   },
