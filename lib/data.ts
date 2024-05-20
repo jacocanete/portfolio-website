@@ -46,7 +46,7 @@ export const experiencesData = [
     description:
       "Despite being a student, I've been actively engaged in the world of development, honing my skills and gaining practical experience. Now, I'm eagerly seeking a full-time opportunity to leverage my expertise as a web developer and contribute meaningfully to innovative projects.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022 - present",
+    date: "2021 - present",
   },
   {
     title: "Administrative Assistant",
