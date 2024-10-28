@@ -71,7 +71,7 @@ export const projectsData = [
   {
     title: "LocalWiz",
     description:
-      "LocalWiz was a client from Upwork. I created a WordPress plugin for their blog in WordPress and worked on their LocalWiz React App.",
+      "LocalWiz was a client from Upwork. I created a WordPress plugin (Integrate DataForSEO to an block interface) for their blog in WordPress and worked on their LocalWiz React App.",
     tags: ["React", "WordPress", "SQL", "Bootstrap", "SCSS"],
     imageUrl: localwizImg,
     url: "https://localwiz.app/",
