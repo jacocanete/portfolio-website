@@ -11,6 +11,7 @@ import startlivingImg from "@/public/startliving.png";
 import strathornfarmImg from "@/public/strathornfarm.png";
 import best4yourhomeImg from "@/public/best4yourhome.png";
 import holistichealthhqImg from "@/public/holistichealth.png";
+import localwizImg from "@/public/localwiz.png";
 
 export const links = [
   {
@@ -57,16 +58,24 @@ export const experiencesData = [
     date: "2022 - 2022",
   },
   {
-    title: "Web Developer",
+    title: "Web Engineer",
     location: "Remote",
     description:
-      "I was never to become a full-time web developer, but I was offered a position as a front-end developer. I worked on a variety of projects, gaining experience with HTML, CSS, Javascript, and PHP. I also learned how to work with APIs and integrate them into web applications. This experience solidified my decision to pursue web development as a career. I took Figma designs and turned them into fully functional websites.",
-    icon: React.createElement(FaWordpressSimple),
+      "Worked with various clients from different parts of the world as a full-stack engineer. I've built websites for clients using WordPress and React. My most notable clients are Digital Impulse, LocalWiz, Profitable Pineapple Ads, and MyContentPal. My toolkit includes WordPress, React, SQL, Bootstrap, and SCSS.",
+    icon: React.createElement(FaReact),
     date: "2022 - 2024",
   },
 ] as const;
 
 export const projectsData = [
+  {
+    title: "LocalWiz",
+    description:
+      "LocalWiz was a client from Upwork. I created a WordPress plugin for their blog in WordPress and worked on their LocalWiz React App.",
+    tags: ["React", "WordPress", "SQL", "Bootstrap", "SCSS"],
+    imageUrl: localwizImg,
+    url: "https://localwiz.app/",
+  },
   {
     title: "RateMySkwela",
     description:
