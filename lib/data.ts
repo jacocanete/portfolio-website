@@ -63,7 +63,7 @@ export const experiencesData = [
     description:
       "Worked with various clients from different parts of the world as a full-stack engineer. I've built websites for clients using WordPress and React. My most notable clients are Digital Impulse, LocalWiz, Profitable Pineapple Ads, and MyContentPal. My toolkit includes WordPress, React, SQL, Bootstrap, and SCSS.",
     icon: React.createElement(FaReact),
-    date: "2022 - 2024",
+    date: "2022 - 2025",
   },
 ] as const;
 

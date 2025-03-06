@@ -96,14 +96,14 @@ export default function Intro() {
         </a>
         <a
           className="bg-white p-4 flex items-center gap-2 rounded-full text-[1.35rem] focus:scale-110 hover:scale-[1.15] hover:text-gray-950 active:scale-[1.15] transition group cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60"
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/jaco-ca%C3%B1ete/"
           target="_blank"
         >
           <BsLinkedin />
         </a>
         <a
           className="bg-white p-4 flex items-center gap-2 rounded-full text-[1.35rem] focus:scale-110 hover:scale-[1.15] active:scale-[1.15] hover:text-gray-950 transition group cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60"
-          href="https://github.com"
+          href="https://github.com/jacocanete/"
           target="_blank"
         >
           <FaGithubSquare />
